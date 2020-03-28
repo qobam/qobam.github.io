@@ -1,0 +1,15 @@
+body{
+background-color: green}
+h1{
+	outline-style: dotted;outline-color: blue}
+p{
+	font-family: "sans-serif";font-style: oblique;}
+h1{
+	text-shadow: 4px 2px white}
+img{
+	border-radius: 50%
+	width:200px;
+	height:200px;
+}
+li{
+	color:red}
